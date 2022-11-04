@@ -3,151 +3,151 @@
     "id":"1",
     "title":"Horta Suspensa",
    "description":"Neste vídeo uma demonstração de como PLANTAR ALFACES utilizando garrafas pets suspensas, de 5 litros, sem precisar regar.",
-   "image":"https://classic.exame.com/wp-content/uploads/2020/10/santander.jpg?quality=70&strip=info&w=1024",
+   "image":"https://live.staticflickr.com/3072/2703017581_845d91b9cc_c.jpg",
    "link":"https://www.youtube.com/watch?v=M5dUxILSnmg" 
   },
   {
     "id":"2",
-    "title":"Santander começa a financiar imóveis na planta. Veja como funciona",
-  "description":"Nova linha terá condições similares às oferecidas pelo banco no financiamento tradicional, com juros a partir de 9,49% ao ano",
-  "image":"https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/mercado-imobiliario/santander-financiamento-imoveis-planta/"
+    "title":"Horta Vertical",
+  "description":"Prateleira de madeira para horta vertical, usando apenas garrafas pet. Garrafas pet cortadas e furadas estrategicamente para armazenar água. ",
+  "image":"https://live.staticflickr.com/2548/4130074417_bfc198a4d4_c.jpg",
+  "link":"https://www.youtube.com/watch?v=dz_zgldkRKI"
   },
   
 {
   "id":"3",
-  "title":"Saiba quanto Piovani e Cardi receberam por propaganda do Santander",
-  "description":"Patricia Abravanel, Luana Piovani, Maíra Cardi e Leandro Firmino apareceram em comerciais do banco Santander no intervalo do reality show e fizeram piada sobre sua relação com os confinados",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/luana-piovani.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/pop/bbb-22-saiba-quanto-piovani-e-cardi-receberam-por-propaganda-do-santander/"
+  "title":"Cultivo de Alho",
+  "description":"Plantar em vasos é muito legal. PLANTEI ALHO NO VASO...alho branco e alho roxo. Vejam o resultado...",
+  "image":"https://live.staticflickr.com/106/272753991_fc8deedd57_c.jpg",
+  "link":"https://www.youtube.com/watch?v=uyiS4RasISA"
   },
 
 {
   "id":"4",
+  "title":"Cultivo de Tomate",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus tomates, na sua horta.",
+  "image":"https://live.staticflickr.com/3159/2880242090_23d4e3903f_z.jpg",
+  "link":"https://www.youtube.com/watch?v=SPbbPk3GhlQ"
+  },
+  {
+    "id":"5",
+    "title":"Cultivo de Cenoura",
+   "description":"Aprenda a cultivar CENOURA em vasos ou GALÃO PET e você terá uma horta orgânica na sacada da varanda do apartamento ou de seu quintal.",
+   "image":"https://live.staticflickr.com/65535/51584146137_285342f791_c.jpg4",
+   "link":"https://www.youtube.com/watch?v=ZVsolgJPRN4" 
+  },
+  {
+    "id":"6",
+    "title":"Cultivo de Cebola",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de cebola, na sua horta",
+  "image":"https://live.staticflickr.com/4148/4833759463_060c588d0f_z.jpg",
+  "link":"https://www.youtube.com/watch?v=GDY0Etn13wU"
+  },
+  
+{
+  "id":"7",
+  "title":"Cultivo de Batata",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de batata, na sua horta.",
+  "image":"https://live.staticflickr.com/23/37481694_35fa5ecb78_c.jpg",
+  "link":"https://www.youtube.com/watch?v=p0ymp5PmaOM"
+  },
+
+{
+  "id":"8",
+  "title":"Cultivo de Banana",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de banana, na sua horta",
+  "image":"https://live.staticflickr.com/3162/2603161270_33b1f9b334_c.jpg",
+  "link":"https://www.youtube.com/watch?v=Y01lfrMMW24"
+  },
+  {
+    "id":"9",
+    "title":"Cultivo de Maça",
+   "description":"Método fácil de germinação de sementes, dica de plantio e rega. Faça sua própria muda de maçã.",
+   "image":"https://live.staticflickr.com/8525/8581328010_fd1c45d6ec_c.jpg",
+   "link":"https://www.youtube.com/watch?v=8NEgJuMNw38" 
+  },
+  {
+    "id":"10",
+    "title":"Cultivo de Uva",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de uva, na sua horta.",
+  "image":"https://live.staticflickr.com/65535/52196104667_c35d9a8a11_z.jpg",
+  "link":"https://www.youtube.com/watch?v=vEMQK2h1728/"
+  },
+  
+{
+  "id":"11",
+  "title":"Cultivo de Pera",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de pera, na sua horta.",
+  "image":"https://live.staticflickr.com/1774/43770181441_791549d193_c.jpg",
+  "link":"https://www.youtube.com/watch?v=aAweiv8StCQ"
+  },
+
+{
+  "id":"12",
   "title":"Britânica Revolut, de US$ 33 bi, entra na briga pelo cliente brasileiro",
   "description":"CEO da Revolut no Brasil, Glauber Mota contou à EXAME Invest os planos no país de uma das maiores fintechs do mundo, que incluem conta com acesso a mais de 25 moedas e super app global",
   "image":"https://classic.exame.com/wp-content/uploads/2022/03/revolut_fintech_britanica_glauber_mota_ceo.jpg?quality=70&strip=info&w=1024",
   "link":"https://exame.com/invest/minhas-financas/britanica-revolut-de-us-33-bi-entra-na-briga-pelo-cliente-brasileiro/"
   },
   {
-    "id":"1",
-    "title":"Santander oferece 50 mil bolsas para cursos de programação",
-   "description":"Para participar do programa, não é necessário ter qualquer graduação ou formação em tecnologia",
-   "image":"https://classic.exame.com/wp-content/uploads/2020/10/santander.jpg?quality=70&strip=info&w=1024",
-   "link":"https://exame.com/carreira/santander-oferece-50-mil-bolsas-para-cursos-de-programacao/" 
+    "id":"13",
+    "title":"Cultivo de Manga",
+   "description":"Veja a técnica que garante 100% de germinação da manga palme, a qual não germina facilmente pela semente.",
+   "image":"https://live.staticflickr.com/1720/24354576286_919d03b29f_c.jpg",
+   "link":"https://www.youtube.com/watch?v=w60CFiODMgU" 
   },
   {
-    "id":"2",
-    "title":"Santander começa a financiar imóveis na planta. Veja como funciona",
-  "description":"Nova linha terá condições similares às oferecidas pelo banco no financiamento tradicional, com juros a partir de 9,49% ao ano",
-  "image":"https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/mercado-imobiliario/santander-financiamento-imoveis-planta/"
+    "id":"14",
+    "title":"Cultivo de Melancia",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de melancia, na sua horta.",
+  "image":"https://live.staticflickr.com/2213/2833188446_1df7c195fd_c.jpg",
+  "link":"https://www.youtube.com/watch?v=CciJfgkTqBg"
   },
   
 {
-  "id":"3",
-  "title":"Saiba quanto Piovani e Cardi receberam por propaganda do Santander",
-  "description":"Patricia Abravanel, Luana Piovani, Maíra Cardi e Leandro Firmino apareceram em comerciais do banco Santander no intervalo do reality show e fizeram piada sobre sua relação com os confinados",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/luana-piovani.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/pop/bbb-22-saiba-quanto-piovani-e-cardi-receberam-por-propaganda-do-santander/"
+  "id":"15",
+  "title":"Cultivo de Laranja",
+  "description":"Como plantar uma muda de citros corretamente para que produzam frutos rapidamente.",
+  "image":"https://live.staticflickr.com/449/18991692095_579baeba11_c.jpg",
+  "link":"https://www.youtube.com/watch?v=kpTjlITYzlk"
   },
 
 {
-  "id":"4",
-  "title":"Britânica Revolut, de US$ 33 bi, entra na briga pelo cliente brasileiro",
-  "description":"CEO da Revolut no Brasil, Glauber Mota contou à EXAME Invest os planos no país de uma das maiores fintechs do mundo, que incluem conta com acesso a mais de 25 moedas e super app global",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/revolut_fintech_britanica_glauber_mota_ceo.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/invest/minhas-financas/britanica-revolut-de-us-33-bi-entra-na-briga-pelo-cliente-brasileiro/"
+  "id":"16",
+  "title":"Cultivo de Mamão",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de mamão, na sua horta",
+  "image":"https://live.staticflickr.com/2278/2349291190_d02a3d3482_c.jpg",
+  "link":"https://www.youtube.com/watch?v=xDbXhyZN07g"
   },
   {
-    "id":"1",
-    "title":"Santander oferece 50 mil bolsas para cursos de programação",
-   "description":"Para participar do programa, não é necessário ter qualquer graduação ou formação em tecnologia",
-   "image":"https://classic.exame.com/wp-content/uploads/2020/10/santander.jpg?quality=70&strip=info&w=1024",
-   "link":"https://exame.com/carreira/santander-oferece-50-mil-bolsas-para-cursos-de-programacao/" 
+    "id":"17",
+    "title":"Cultivo de Limão",
+   "description":"Fazendo a germinação da semente de forma muito simples e fácil.",
+   "image":"https://farm8.static.flickr.com/7840/47280929051_29e53360e3_c.jpg",
+   "link":"https://www.youtube.com/watch?v=Octdj3-tKCc" 
   },
   {
-    "id":"2",
-    "title":"Santander começa a financiar imóveis na planta. Veja como funciona",
-  "description":"Nova linha terá condições similares às oferecidas pelo banco no financiamento tradicional, com juros a partir de 9,49% ao ano",
-  "image":"https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/mercado-imobiliario/santander-financiamento-imoveis-planta/"
+    "id":"18",
+    "title":"Cultivo de Caju",
+  "description":"Como plantar qualquer caju pela castanha. a castanha do caju germina em qualquer posição.",
+  "image":"https://live.staticflickr.com/4612/38494335250_7282214119_c.jpg",
+  "link":"https://www.youtube.com/watch?v=Vc_o1vG6ueY"
   },
   
 {
-  "id":"3",
-  "title":"Saiba quanto Piovani e Cardi receberam por propaganda do Santander",
-  "description":"Patricia Abravanel, Luana Piovani, Maíra Cardi e Leandro Firmino apareceram em comerciais do banco Santander no intervalo do reality show e fizeram piada sobre sua relação com os confinados",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/luana-piovani.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/pop/bbb-22-saiba-quanto-piovani-e-cardi-receberam-por-propaganda-do-santander/"
+  "id":"19",
+  "title":"Cultivo de Abacaxi",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de abacaxi, na sua horta.",
+  "image":"https://live.staticflickr.com/65535/51955462325_68d9b14024_c.jpg",
+  "link":"https://www.youtube.com/watch?v=hA3fRJHWJHk"
   },
 
 {
-  "id":"4",
-  "title":"Britânica Revolut, de US$ 33 bi, entra na briga pelo cliente brasileiro",
-  "description":"CEO da Revolut no Brasil, Glauber Mota contou à EXAME Invest os planos no país de uma das maiores fintechs do mundo, que incluem conta com acesso a mais de 25 moedas e super app global",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/revolut_fintech_britanica_glauber_mota_ceo.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/invest/minhas-financas/britanica-revolut-de-us-33-bi-entra-na-briga-pelo-cliente-brasileiro/"
-  },
-  {
-    "id":"1",
-    "title":"Santander oferece 50 mil bolsas para cursos de programação",
-   "description":"Para participar do programa, não é necessário ter qualquer graduação ou formação em tecnologia",
-   "image":"https://classic.exame.com/wp-content/uploads/2020/10/santander.jpg?quality=70&strip=info&w=1024",
-   "link":"https://exame.com/carreira/santander-oferece-50-mil-bolsas-para-cursos-de-programacao/" 
-  },
-  {
-    "id":"2",
-    "title":"Santander começa a financiar imóveis na planta. Veja como funciona",
-  "description":"Nova linha terá condições similares às oferecidas pelo banco no financiamento tradicional, com juros a partir de 9,49% ao ano",
-  "image":"https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/mercado-imobiliario/santander-financiamento-imoveis-planta/"
-  },
-  
-{
-  "id":"3",
-  "title":"Saiba quanto Piovani e Cardi receberam por propaganda do Santander",
-  "description":"Patricia Abravanel, Luana Piovani, Maíra Cardi e Leandro Firmino apareceram em comerciais do banco Santander no intervalo do reality show e fizeram piada sobre sua relação com os confinados",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/luana-piovani.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/pop/bbb-22-saiba-quanto-piovani-e-cardi-receberam-por-propaganda-do-santander/"
-  },
-
-{
-  "id":"4",
-  "title":"Britânica Revolut, de US$ 33 bi, entra na briga pelo cliente brasileiro",
-  "description":"CEO da Revolut no Brasil, Glauber Mota contou à EXAME Invest os planos no país de uma das maiores fintechs do mundo, que incluem conta com acesso a mais de 25 moedas e super app global",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/revolut_fintech_britanica_glauber_mota_ceo.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/invest/minhas-financas/britanica-revolut-de-us-33-bi-entra-na-briga-pelo-cliente-brasileiro/"
-  },
-  {
-    "id":"1",
-    "title":"Santander oferece 50 mil bolsas para cursos de programação",
-   "description":"Para participar do programa, não é necessário ter qualquer graduação ou formação em tecnologia",
-   "image":"https://classic.exame.com/wp-content/uploads/2020/10/santander.jpg?quality=70&strip=info&w=1024",
-   "link":"https://exame.com/carreira/santander-oferece-50-mil-bolsas-para-cursos-de-programacao/" 
-  },
-  {
-    "id":"2",
-    "title":"Santander começa a financiar imóveis na planta. Veja como funciona",
-  "description":"Nova linha terá condições similares às oferecidas pelo banco no financiamento tradicional, com juros a partir de 9,49% ao ano",
-  "image":"https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/mercado-imobiliario/santander-financiamento-imoveis-planta/"
-  },
-  
-{
-  "id":"3",
-  "title":"Saiba quanto Piovani e Cardi receberam por propaganda do Santander",
-  "description":"Patricia Abravanel, Luana Piovani, Maíra Cardi e Leandro Firmino apareceram em comerciais do banco Santander no intervalo do reality show e fizeram piada sobre sua relação com os confinados",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/luana-piovani.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/pop/bbb-22-saiba-quanto-piovani-e-cardi-receberam-por-propaganda-do-santander/"
-  },
-
-{
-  "id":"4",
-  "title":"Britânica Revolut, de US$ 33 bi, entra na briga pelo cliente brasileiro",
-  "description":"CEO da Revolut no Brasil, Glauber Mota contou à EXAME Invest os planos no país de uma das maiores fintechs do mundo, que incluem conta com acesso a mais de 25 moedas e super app global",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/revolut_fintech_britanica_glauber_mota_ceo.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/invest/minhas-financas/britanica-revolut-de-us-33-bi-entra-na-briga-pelo-cliente-brasileiro/"
+  "id":"20",
+  "title":"Cultivo de Morango",
+  "description":"Como plantar e cultivar e se precaver contra as pragas que podem acabar com seus pés de morango, na sua horta.",
+  "image":"https://live.staticflickr.com/4798/40652105051_42e10a0a0b_c.jpg",
+  "link":"https://www.youtube.com/watch?v=MF4V9odd5Ak"
   }
 
 ]
